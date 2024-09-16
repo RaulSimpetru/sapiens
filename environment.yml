@@ -1,4 +1,4 @@
-name: sapiens_lite_2
+name: sapiens_lite
 channels:
   - defaults
   - pytorch
